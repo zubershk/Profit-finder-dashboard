@@ -1,0 +1,6 @@
+order_id,order_date,product,category,quantity,unit_price,unit_cost
+1001,2025-01-05,Blue T-Shirt,Apparel,2,19.99,8.00
+1002,2025-01-08,Red Mug,Home,1,9.50,2.50
+1003,01/15/2025,Blue T-Shirt,Apparel,1,19.99,8.00
+1004,2025-02-02,Green Hat,Apparel,3,15.00,5.00
+1005,2025-02-10,Red Mug,Home,2,9.50,2.50
